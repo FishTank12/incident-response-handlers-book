@@ -8,6 +8,9 @@ A phishing email containing a malicious attachment that deployed ransomware was 
 Tool(s) Used
 
 No security tools were used.
+
+
+
 The 5 W's
 
     Who: An organized group of unethical hackers
